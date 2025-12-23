@@ -1,5 +1,5 @@
 
-#🚗 Driver Drowsiness Detection System
+🚗 Driver Drowsiness Detection System
 
 A real-time Driver Drowsiness Detection System built using Python, OpenCV, and Mediapipe that monitors a driver’s eye and mouth movements to detect drowsiness and yawning. The system triggers audio and visual alerts to help prevent accidents caused by fatigue.
 
